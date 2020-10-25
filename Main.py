@@ -42,7 +42,7 @@ if playGame:
 
 
     player1State = "f"
-    player2State = "r"
+    player2State = "n"
     name1 = "Models/attempt2move0014250000"
     name2 = "Models/attempt2move0014250000"
 
